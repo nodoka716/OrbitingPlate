@@ -1,0 +1,39 @@
+C    DWG name:      Plate.dwg
+C    Thermophysical Property Database: TdThermo.tdp
+C    Optical Property Database:        RcOptics.rco
+C    Computer name: LAPTOP-IT6G9966
+C    User name:     81903
+C    Symbol Names, Evaluated values, Input Strings, Comments
+C    hrBetaAngle          20.62025      2.062025435353e+01  
+C    hrEccen              0.00107       0.00107
+C    hrIllum              3.            3
+C    hrMeanAnom           360.          360
+C    hrPeriod             5318.18       5318.18              Always in current user units. If programming, use hrPeri...
+C    hrPeriodSec          5318.18       5318.18
+C    hrPlanetX            -0.3201876    -3.201876130416e-01 
+C    hrPlanetY            0.375273      0.375273
+C    hrPlanetZ            0.869856      0.869856
+C    hrPos                14.           14
+C    hrShadowEntry        263.7827      2.637826867851e+02  
+C    hrShadowExit         53.0756       53.0756
+C    hrSpeed              7.78843       7.78843
+C    hrSubSolarMeanAnom   158.296       158.296              -180 to 180
+C    hrSubSolarTrueAnom   158.3412      1.583411773857e+02   -180 to 180
+C    hrSunX               6.938890e-18  6.93889e-18
+C    hrSunY               -6.938890e-18 -6.93889e-18
+C    hrSunZ               1.            1
+C    hrTime               5318.18       5318.18              Always in current user units. If programming, use hrTime...
+C    hrTimeSec            5318.18       5318.18
+C    hrTimeShadowEntry    3898.59       3898.59
+C    hrTimeShadowEntrySec 3898.59       3898.59
+C    hrTimeShadowExit     782.624       782.624
+C    hrTimeShadowExitSec  782.624       782.624
+C    hrTrueAnom           360.          360
+C    hrVelocityX          0.938443      0.938443
+C    hrVelocityY          2.220446e-16  2.220446049250e-16  
+C    hrVelocityZ          0.345434      0.345434
+C
+C Optical Properties Used:
+C PROPERTY NAME EMISS ALPHA IR TRANS SOL TRANS IR TSPEC SOL TSPEC IR REFL SPEC SOL REFL SPEC
+C MLI, 7-layer2 0.05  0.15                                                     
+C

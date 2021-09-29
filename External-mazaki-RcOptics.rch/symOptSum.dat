@@ -1,0 +1,35 @@
+C    DWG name:      Plate.dwg
+C    Thermophysical Property Database: TdThermo.tdp
+C    Optical Property Database:        RcOptics.rco
+C    Computer name: LAPTOP-IT6G9966
+C    User name:     81903
+C    Symbol Names, Evaluated values, Input Strings, Comments
+C    hrBetaAngle          0.            0
+C    hrEccen              0.            0
+C    hrIllum              0.            0
+C    hrMeanAnom           21.6          21.6
+C    hrPeriod             5563.46       5563.46              Always in current user units. If programming, use hrPeri...
+C    hrPeriodSec          5563.46       5563.46
+C    hrPlanetX            0.            0
+C    hrPlanetY            0.            0
+C    hrPlanetZ            1.            1
+C    hrPos                6.            6
+C    hrShadowEntry        109.9675      1.099675469971e+02  
+C    hrShadowExit         250.0325      2.500324530030e+02  
+C    hrSpeed              7.66404       7.66404
+C    hrSubSolarMeanAnom   6.113030e-12  6.11303e-12          -180 to 180
+C    hrSubSolarTrueAnom   6.113030e-12  6.11303e-12          -180 to 180
+C    hrSunX               -0.3681246    -3.681245526846e-01 
+C    hrSunY               0.            0
+C    hrSunZ               -0.929776     -0.929776
+C    hrTime               333.8076      3.338075555267e+02   Always in current user units. If programming, use hrTime...
+C    hrTimeSec            333.8076      3.338075555267e+02  
+C    hrTimeShadowEntry    1699.444      1.699444354184e+03  
+C    hrTimeShadowEntrySec 1699.444      1.699444354184e+03  
+C    hrTimeShadowExit     3864.015      3.864014904596e+03  
+C    hrTimeShadowExitSec  3864.015      3.864014904596e+03  
+C    hrTrueAnom           21.6          21.6
+C    hrVelocityX          1.            1
+C    hrVelocityY          0.            0
+C    hrVelocityZ          0.            0
+C
