@@ -8,3 +8,7 @@
 
 ![スクリーンショット (380)](https://user-images.githubusercontent.com/80445477/135244409-1c7fc150-dd90-4830-a8fb-a836fe881144.png)
 
+
+
+こっちのほうがかっこいい
+![スクリーンショット (385)](https://user-images.githubusercontent.com/80445477/135724278-e3760c6c-78c1-4205-8f1d-42801899fe69.png)
