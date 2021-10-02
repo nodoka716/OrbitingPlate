@@ -10,5 +10,9 @@
 
 
 
+
+
+
 こっちのほうがかっこいい
-![スクリーンショット (385)](https://user-images.githubusercontent.com/80445477/135724278-e3760c6c-78c1-4205-8f1d-42801899fe69.png)
+![スクリーンショット (385)](https://user-images.githubusercontent.com/80445477/135724333-5a8ae511-6939-40b0-ab0a-2d5ccb81d9c6.png)
+
